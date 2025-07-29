@@ -1,4 +1,4 @@
-# 🧠 RecursionJava
+# 🧠 Recursion in Java
 
 A clean and well-structured Java project demonstrating fundamental and advanced **recursion techniques** in programming. This repository is designed to help learners understand how recursive methods work in solving real-world problems.
 
@@ -34,9 +34,9 @@ All code is written in standard Java and designed for simplicity, readability, a
 
 ---
 
-## 👤 Author
+## 🧑‍💻 **Author** 
 
-**Shayan Shahid**  
+**Muhammad Shayan Shahid**  
 📍 Java & Front-End Learner  
 📧 [msshahid23052006@gmail.com](mailto:msshahid23052006@gmail.com)  
 
