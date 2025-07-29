@@ -38,6 +38,7 @@ All code is written in standard Java and designed for simplicity, readability, a
 
 **Shayan Shahid**  
 📍 Java & Front-End Learner  
+📧 [msshahid23052006@gmail.com](mailto:msshahid23052006@gmail.com)  
 
 Feel free to connect or reach out for collaboration or feedback! 🤝
 
