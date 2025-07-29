@@ -34,8 +34,11 @@ All code is written in standard Java and designed for simplicity, readability, a
 
 ---
 
-##🙋‍♂️ Author
+## 👤 Author
 
-Shayan Shahid
+**Shayan Shahid**  
+📍 Java & Front-End Learner  
+
+Feel free to connect or reach out for collaboration or feedback! 🤝
 
 ---
