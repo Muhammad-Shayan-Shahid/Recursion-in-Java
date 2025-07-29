@@ -31,3 +31,8 @@ All code is written in standard Java and designed for simplicity, readability, a
 1. 📥 **Clone the repository**
    ```bash
    git clone https://github.com/your-username/RecursionJava.git
+
+---
+
+##🙋‍♂️ Author
+Shayan Shahid
